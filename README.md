@@ -1,4 +1,4 @@
- Tic Tac Toe Game
+ Tic Tac Toc Game
   ----------------
   This file contains the structure and styling for a simple Tic Tac Toe game.
   
